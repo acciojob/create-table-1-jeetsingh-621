@@ -6,7 +6,7 @@ function insert_Row() {
 	let cell1 = newrow.insertCell(0);
 	let cell2 = newrow.insertCell(1);
 
-	cell1.textContent = "New Cell 1"
-	cell2.textContent = "New Cell 2"
+	cell1.textContent = "New Cell1"
+	cell2.textContent = "New Cell2"
   
 }
